@@ -10,3 +10,8 @@ public async Task CreatePet(string name)
   return new Pet(name);
 }
 ```
+
+This is my list to approve the github action course
+- [x] Improve GitHub actions
+- [ ] Improve my english level
+- [ ] Create a javasctipt api
